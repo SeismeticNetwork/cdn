@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Vencord",
+        "description": "Vencord, a popular customization tool for Discord, lets you add features and block tracking with ease.",
+        "id": "vencord"
+    },
+    {
+        "Name": "Inspect Element",
+        "description": "Adds the ability to Inspect Elements on a page",
+        "id": "eruda"
+    },
+    {
+        "Name": "NowGG Patcher",
+        "description": "Patches the NowGG Display in order for the game to be in place",
+        "id": "nowgg_patch"
+    },
+    {
+        "Name": "Adblocker",
+        "description": "Blocks all Ads",
+        "id": "adblocker"
+    },
+    {
+        "Name": "Execute JS",
+        "description": "A Simple prompt that allows you to execute any javascript code",
+        "id": "executejs"
+    },
+    {
+        "Name": "Web Xray",
+        "description": "Modify simple HTML Elements with Ease!",
+        "id": "webxray"
+    },
+    {
+        "Name": "Auto Clicker",
+        "description": "Auto Clicker",
+        "id": "autoclicker"
+    }
+]
