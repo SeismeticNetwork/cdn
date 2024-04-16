@@ -33,5 +33,10 @@
         "Name": "Auto Clicker",
         "description": "Auto Clicker",
         "id": "autoclicker"
+    },
+    {
+        "Name": "NoLink (NoCSS)",
+        "description": "Removes all Link Elements from the page",
+        "id": "nolink"
     }
 ]
